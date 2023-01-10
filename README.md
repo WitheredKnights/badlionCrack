@@ -25,4 +25,14 @@ Contents :-
     - In the `Java Arguements` type this `-javaagent:agent.jar`
     - Click Save and use Badlion configuration not Default configuration
  2. Run Minecraft version named `Badlion Client 1.8.9`
-   
+ 
+ ## Notes
+ This version of BadLion Client has emotes in it so yeah lol, you can make an issue if you want but please for the sake of our sanity join the discord [here](https://dsc.gg/witheredknights) and get your answer faster.
+ 
+ ## CREDITS
+ [PrimeTDMomega](https://github.com/PrimeTDMomega/) - Removing the rat (trojan)
+ <BR>
+ [Withered Knights](https://dsc.gg/witheredknights) - Emotional Support LMAO
+ <br>
+ 
+ SkidUnion - Adding a rat for some bloody reason to a free client LMAO
