@@ -6,7 +6,8 @@ BadLion Client needs a premium Minecraft account to be used and does not work wi
 Contents :-
  - [Installation](https://github.com/WitheredKnights/badlionCrack#installation)
  - [Usage](https://github.com/WitheredKnights/badlionCrack#usage)
- - 
+ - [Notes](https://github.com/WitheredKnights/badlionCrack#usage)
+ - [CREDITS](https://github.com/WitheredKnights/badlionCrack#credits)
 
 
 ## Installation 
