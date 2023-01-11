@@ -3,6 +3,8 @@ BadLion Client is a General Utility Client for 1.8.9 Minecraft which is very pop
 
 BadLion Client needs a premium Minecraft account to be used and does not work without it but this crack made by []() (thats me) that does not require a premium Minecraft account and can be used in launchers such as TLauncher or even the Official Minecraft Launcher.
 
+Read the notes section of the README too
+
 Contents :-
  - [Installation](https://github.com/WitheredKnights/badlionCrack#installation)
  - [Usage](https://github.com/WitheredKnights/badlionCrack#usage)
@@ -28,7 +30,7 @@ Contents :-
  2. Run Minecraft version named `Badlion Client 1.8.9`
  
  ## Notes
- This version of BadLion Client has emotes in it so yeah lol, you can make an issue if you want but please for the sake of our sanity join the discord [here](https://dsc.gg/witheredknights) and get your answer faster.
+ This version of BadLion Client has emotes in it so yeah lol, you can make an issue if you want but please for the sake of our sanity join the discord [here](https://dsc.gg/witheredknights) and get your answer faster. If you would like to contribute as in you have a newer version of BadLion Client then message us from the [discord](https://dsc.gg/witheredknights/).
  
  ## CREDITS
  [PrimeTDMomega](https://github.com/PrimeTDMomega/) - Removing the rat (trojan)
