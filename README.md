@@ -1,7 +1,7 @@
 ## What is BadLion Client
 BadLion Client is a General Utility Client for 1.8.9 Minecraft which is very popular and makes gameplay much more enjoyable for PvP in 1.8.9
 
-BadLion Client needs a premium Minecraft account to be used and does not work without it but this crack made by []() (thats me) that does not require a premium Minecraft account and can be used in launchers such as TLauncher or even the Official Minecraft Launcher.
+BadLion Client needs a premium Minecraft account to be used and does not work without it but this crack made by us (kinda, check CREDITS) that does not require a premium Minecraft account and can be used in launchers such as TLauncher or even the Official Minecraft Launcher.
 
 Read the notes section of the README too
 
