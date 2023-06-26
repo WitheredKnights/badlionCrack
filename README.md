@@ -14,9 +14,9 @@ Contents :-
 
 ## Installation 
  ### Step 1 : Download
- Download the `LC.zip` File from [Releases](https://github.com/PrimeTDMomega/lunarCrack/releases/tag/1.0)
+ Download the latest release `BLC-offline.zip` File from [Releases](https://github.com/WitheredKnights/badlionCrack/releases/tag/v.1.1.0)
  ### Step 2 : Extraction
- Extract the `LC.zip` file using software such as WinRAR or 7zip
+ Extract the `BLC-offline.zip` file using software such as WinRAR or 7zip
  ### Step 3 : Placement
  1. Place the `Badlion Client 1.8.9` folder in your `Appdata/Roaming/.minecraft/versions`
  2. Open the `badlion lib` folder and you will find 3 `.jar` files, copy and paste those 3 files into your `Appdata/Roaming/.minecraft` folder
