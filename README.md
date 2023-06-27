@@ -18,7 +18,7 @@ Contents :-
  ### Step 2 : Extraction
  Extract the `BLC-offline.zip` file using software such as WinRAR or 7zip
  ### Step 3 : Placement
- 1. Place the `Badlion Client 1.8.9` folder in your `Appdata/Roaming/.minecraft/versions`
+ 1. Place the `Badlion Client 1.8.9` folder that will inside the `blc-src` folder in your `Appdata/Roaming/.minecraft/versions`
  2. Open the `badlion lib` folder and you will find 3 `.jar` files, copy and paste those 3 files into your `Appdata/Roaming/.minecraft` folder
  3. In the `libraries` you will find 2 folders, copy and paste both folders in your `Appdata/Roaming/.minecraft/libraries`
  ## Usage
