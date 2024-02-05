@@ -22,7 +22,7 @@ Contents :-
  2. Open the `badlion lib` folder and you will find 3 `.jar` files, copy and paste those 3 files into your `Appdata/Roaming/.minecraft` folder
  3. In the `libraries` you will find 2 folders, copy and paste both folders in your `Appdata/Roaming/.minecraft/libraries`
  ## Usage
- 1. Goto your Minecraft Launcher Settings and change our your Java, this is how :-
+ 1. Goto your Minecraft Launcher Settings and change out your Java config, this is how :-
     - You will need to add the Path to your Java folder which for Windows is probably `C:\Program Files\Java\jre1.8.0_301`
     - Then you will need to change the name of your custom Java to `Badlion`
     - In the `Java Arguements` type this `-javaagent:agent.jar`
