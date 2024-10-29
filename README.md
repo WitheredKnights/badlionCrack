@@ -33,10 +33,9 @@ Contents :-
  ## Notes
  This version of BadLion Client has emotes in it so yeah lol, you can make an issue if you want but please for the sake of our sanity join the discord [here](https://dsc.gg/witheredknights) and get your answer faster. If you would like to contribute as in you have a newer version of BadLion Client then message us from the [discord](https://dsc.gg/witheredknights/).
  
- ## CREDITS
- [PrimeTDMomega](https://github.com/PrimeTDMomega/) - Removing the rat (trojan)
- <BR>
- [Withered Knights](https://dsc.gg/witheredknights) - Emotional Support LMAO
+ ## Credits
+ [Skidunion](https://github.com/skidunion/) - cracking badlion
  <br>
+ [prime](https://github.com/primewk/) - removing a rat someone rando added
+
  
- SkidUnion - Adding a rat for some bloody reason to a free client LMAO
