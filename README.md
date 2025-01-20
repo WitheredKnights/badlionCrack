@@ -6,6 +6,11 @@ BadLion Client needs a premium Minecraft account to be used and does not work wi
 
 Read the notes section of the README too
 
+## Compatibility
+Due to changes made by the SKLauncher & TLauncher devs, it is now no longer possible to use these launchers for badlionCrack. We recommend using [Tlegacy/LegacyLauncher](https://llaun.ch/en) for badlionCrack.
+
+TLegacy (also known as Legacy Launcher) fully supports cracked and premium accounts.
+
 Contents :-
  - [Installation](https://github.com/WitheredKnights/badlionCrack#installation)
  - [Usage](https://github.com/WitheredKnights/badlionCrack#usage)
